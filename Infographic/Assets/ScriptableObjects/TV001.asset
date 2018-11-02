@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 845b902082a237e4cac59de11c9de16e, type: 3}
+  m_Name: TV001
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: d6d0de1286c5884478a9c5362274fe2d, type: 3}
+  material: {fileID: 2100000, guid: f5b0bf549c11f844ab89055b10766c31, type: 2}
