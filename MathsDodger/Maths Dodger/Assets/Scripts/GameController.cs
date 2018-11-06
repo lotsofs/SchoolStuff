@@ -154,7 +154,6 @@ public class GameController : MonoBehaviour {
 			KillEnemies(true);
 		}
 
-		feedbackText.text = "Correct";
 		difficultyLevel += 10;
 		feedbackText.color = Color.green;
 		health.Value++;
